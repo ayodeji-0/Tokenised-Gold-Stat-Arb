@@ -1,4 +1,4 @@
-# Tokenized Gold Statistical Arbitrage
+# Tokenised Gold Statistical Arbitrage
 
 Analysing Statistical Arbitrage on Tokenized Gold Assets and Gold Futures and Comparing Results of these Arbitrage Strategies With Gold Returns
 
