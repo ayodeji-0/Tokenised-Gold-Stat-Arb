@@ -69,11 +69,13 @@ The dashboard breaks down every trade from the backtest: entries and exits, hold
 
 ![Trade-level returns, holding periods and cumulative P&L](detailed_trade_analysis_dashboard.png)
 
-**Key results:** Over 4 years, 35 trades returned 48.3% with a Sharpe ratio of 2.40 and a maximum drawdown of 2.5%. Buy-and-hold gold returned more (87%) but with far higher risk: a Sharpe of 1.27 and a 30% drawdown. The strategy trades raw return for much smoother, market-neutral performance. Buy-and-hold figures exclude carry.
+**Key results:** Over 2 years, 35 trades returned 48.3% with a Sharpe ratio of 2.40 and a maximum drawdown of 2.5%. Buy-and-hold gold returned more (87%) but with far higher risk: a Sharpe of 1.27 and a 30% drawdown. The strategy trades raw return for much smoother, market-neutral performance. Buy-and-hold figures exclude carry.
 
 ## Interpretation
 
 These results are not proof of a reliable profit source. With only 35 trades, the Sharpe ratio is still just a noisy estimate.
+
+Once more robust slippage and fees testing is implemented, the feasibility can be further reclassified.
 
 ## Future Work
 
